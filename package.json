@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "tsc --watch",
     "build": "tsc",
-    "format": "prettier --config .prettierrc './**/*.ts' --write",
     "test": "jest",
     "lint": "eslint **/*.ts",
     "prepare": "npm run build",
