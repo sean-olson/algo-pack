@@ -1,2 +1,2 @@
 # algo-pack
-Algo-Pack is a simple library containing optimized solutions for common algorithms
+a simple npm package containing implementations of common, solved algorithms
